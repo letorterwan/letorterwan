@@ -1,5 +1,9 @@
-### Hi there 👋
+[![letorterwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=letorterwan&theme=algolia&show_icons=true&count_private=true)](https://github.com/letorterwan)
+![letorterwan's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letorterwan&theme=algolia&langs_count=10&layout=compact)
 
+Professional networking :
+
+[![Linkedin: Ghazi](https://img.shields.io/badge/-ErwanLetort-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erwanletort/)](https://www.linkedin.com/in/erwan-letort-46353447/)
 <!--
 **letorterwan/letorterwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
